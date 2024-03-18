@@ -1,2 +1,4 @@
-# conflict
-## resolve this muthafucka
+# References
+
+* octocat 1 😈
+
